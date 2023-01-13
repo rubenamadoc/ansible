@@ -1,0 +1,1 @@
+Ansible es una herramienta de software libre que permite aprovisionar sistemas, presenta una mejora significativa a utilizar scripts en la shell. Tiene una amplia gama de módulos para aprovisionar servidores, es una herramienta declarativa y no tiene la necesidad de configurar agentes.
