@@ -8,11 +8,15 @@ La configuración se realiza de la siguiente manera.
 
 ![](Imagenes/playbook)
 
+Hosts: indico el nombre de dominio donde instalaré NGINX
+
+remote_user: es el nombre de usuario de la maquina donde se realizará la acción
+
 - Ansible proporciona distintos módulos que realizan un acción determinada:
 
 1. Gestor de paquetes: nos permite instalar, borrar, actualizar etc.
 
-![](Imagenes/paquetes)
+Que es el que he realizado como prueba
 
 2. Service: para, inicia, habilita o deshabilita servicios.
 
