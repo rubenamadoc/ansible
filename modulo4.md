@@ -2,6 +2,20 @@ Los playbooks permiten gestionar la configuración del despliegue, definiendo la
 
 La configuración se realiza de la siguiente manera.
 
+1. Crear un directorio con donde se guardarán los archvios necesarios para el despliegue.
+
+2. Crear dentro del directorio un archivo con nombre hosts, el cual se utilizará para indicar la información del servidor remoto.
+
+![](Imagenes/hosts)
+
+3. Crear las keys de ssh y pasarlo al servidor remoto para facilitar nuestra conexión con el mismo.
+
+![](Imagenes/ssh-keygen)
+
+![](Imagenes/copykey)
+
+4. Crear el playbook.
+
 - Los parámetros son introducidos en un archivo .yml.
 
 - La estrcutura de un playbook:
