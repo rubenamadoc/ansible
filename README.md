@@ -6,4 +6,4 @@
 5. [Desplegar servicios en Ansible.](https://github.com/rubenamadoc/ansible/blob/main/modulo5.md)
 6. [Referencias.](https://github.com/rubenamadoc/ansible/blob/main/modulo6.md)
 7. [Licencia.](https://github.com/rubenamadoc/ansible/blob/main/licencia.md)
-8. [Video Tutorial.](https://github.com/rubenamadoc/ansible/blob/main/video.md)
+8. [Video Tutorial.](https://youtu.be/DdV85dMHkv8)
